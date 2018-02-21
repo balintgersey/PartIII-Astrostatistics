@@ -58,6 +58,7 @@ Lecture 07 (Thu 01 Feb) slides uploaded.  Covered:
 Lecture 08 (Sat 03 Feb) slides uploaded. Covered:
   * Statistical Modeling wisdom
   * Ordinary Least Squares (OLS) and Generalised Least Squares (GLS) solutions to Linear Regression
+  * Regression references: Ivezić, Ch 8; F&B Ch 7
   * Introduction to Latent Variable modeling to account for (y,x)-measurement errors and intrinsic dispersion (TBC)
 
 Lecture 09 (Tue 06 Feb) slides uploaded.  Covered:
