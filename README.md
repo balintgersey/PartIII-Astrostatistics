@@ -105,6 +105,11 @@ Lecture 14 (Sat 17 Feb).  Covered:
   * Review Bayesian Estimates of the Milky Way Galaxy Mass Case Study in more detail
   * Code Demonstration using Importance Sampling
   * Highest Posterior Density credible intervals
+  
+Lecture 15 (Tue 20 Feb). Covered:
+  * Markov Chain Monte Carlo
+  * Metropolis Algorithm
+  * Example: Inferring a Gaussian mean, and code demo (metropolis1.m)
 
 **Week 6**  
 Probabilistic Graphical Models & Hierarchical Bayes
