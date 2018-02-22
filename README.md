@@ -98,7 +98,7 @@ Lecture 13 (Thu 15 Feb).  Covered:
        
 Example Class (Fri 16 Feb):
   * Solved Example Sheet 1, problems 1 & 2
-  * Bootstrap Sampling     
+  * Bootstrap Sampling (Ivezic, §4.5 & F&B §3.6.2)
        
 Lecture 14 (Sat 17 Feb).  Covered:
   * Kernel Density Estimation (F & B Ch 6, Ivezić, Sec 6.1.1)
@@ -112,6 +112,13 @@ Lecture 15 (Tue 20 Feb). Covered:
   * Example: Inferring a Gaussian mean, and code demo (metropolis1.m)
 
 **Week 6**  
+Lecture 16 (Thu 22 Feb). Covered:
+  * Drawing multivariate Gaussian random variates (Cholesky factorisation)
+  * Multi-dimensional Metropolis algorithm
+  * Example & Code Demo: 2D metropolis, for Gaussian mean and variance
+  * Assessing convergence, Gelman-Rubin ratio
+  * MCMC animations: http://chi-feng.github.io/mcmc-demo/
+
 Probabilistic Graphical Models & Hierarchical Bayes
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
