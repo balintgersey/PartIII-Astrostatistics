@@ -116,8 +116,17 @@ Lecture 16 (Thu 22 Feb). Covered:
   * Drawing multivariate Gaussian random variates (Cholesky factorisation)
   * Multi-dimensional Metropolis algorithm
   * Example & Code Demo: 2D metropolis, for Gaussian mean and variance
+  * metropolis1.m, metropolis2.m
   * Assessing convergence, Gelman-Rubin ratio
   * MCMC animations: http://chi-feng.github.io/mcmc-demo/
+
+Lecture 17 (Sat 24 Feb). Covered:
+  * Joint, Marginal, Conditional Properties of Multivariate Gaussians
+  * Efficient Metropolis Proposal Rules
+  * Metropolis-Hastings algorithms
+  * Gibbs Sampling
+  * Example & Code Demo: Gibbs Sampling a correlated bivariate Gaussian posterior
+  * gibbs_example.m
 
 Probabilistic Graphical Models & Hierarchical Bayes
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
