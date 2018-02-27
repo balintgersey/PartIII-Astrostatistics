@@ -7,3 +7,5 @@ metropolis2.m - Metropolis algorithm to sample posterior of (mu, sigma^2) given 
 
 gibbs_example.m - Gibbs sampling algorithm to sample a correlated bivariate Gaussian posterior
 
+metropgibbs_example.m - Metropolis-within-Gibbs sampling algorithm to sample a correalted bivariate Gaussian posterior
+
