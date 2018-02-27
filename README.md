@@ -128,6 +128,11 @@ Lecture 17 (Sat 24 Feb). Covered:
   * Example & Code Demo: Gibbs Sampling a correlated bivariate Gaussian posterior
   * lecture_codes/gibbs_example.m
 
+Lectur 18 (Tue 27 Feb). Covered:
+  * Aside on structure of covariance matrices for Multivariate Gaussian dist'ns
+  * Metropolis-within-Gibbs sampling
+  * Began sketch of Markov Chain theoretical background
+
 Probabilistic Graphical Models & Hierarchical Bayes
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
