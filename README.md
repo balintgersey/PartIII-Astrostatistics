@@ -133,15 +133,17 @@ Lectur 18 (Tue 27 Feb). Covered:
   * Metropolis-within-Gibbs sampling
   * Began sketch of Markov Chain theoretical background
 
-Probabilistic Graphical Models & Hierarchical Bayes
-  * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
-  * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
+
 
 **Week 7**  
 Gaussian Processes in Astrophysics
   * Case Study:  
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
+  
+  Probabilistic Graphical Models & Hierarchical Bayes
+  * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
+  * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
 
 **Week 8**  
 Approximate Bayesian Computation
