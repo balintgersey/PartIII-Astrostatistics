@@ -128,15 +128,21 @@ Lecture 17 (Sat 24 Feb). Covered:
   * Example & Code Demo: Gibbs Sampling a correlated bivariate Gaussian posterior
   * lecture_codes/gibbs_example.m
 
-Lectur 18 (Tue 27 Feb). Covered:
+Lecture 18 (Tue 27 Feb). Covered:
   * Aside on structure of covariance matrices for Multivariate Gaussian dist'ns
   * Metropolis-within-Gibbs sampling
   * Began sketch of Markov Chain theoretical background
 
-
-
 **Week 7**  
-Gaussian Processes in Astrophysics
+
+Lecture 19 (Thu 01 Mar). Covered:
+  * Sketch of MCMC theory
+  * irreducible, aperiodic, not transient chaisn with unique, stationary dist'ns
+  * detailed balance and invariant dist'ns
+  * proof that Metropolis-Hastings obeys detailed balance
+  * Metropolis & Gibbs as special cases of M-H
+  
+Lecture 20 (Sat 03 Mar):  Gaussian Processes in Astrophysics
   * Case Study:  
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
