@@ -137,7 +137,7 @@ Lecture 18 (Tue 27 Feb). Covered:
 
 Lecture 19 (Thu 01 Mar). Covered:
   * Sketch of MCMC theory
-  * irreducible, aperiodic, not transient chaisn with unique, stationary dist'ns
+  * irreducible, aperiodic, not transient chains with unique, stationary dist'ns
   * detailed balance and invariant dist'ns
   * proof that Metropolis-Hastings obeys detailed balance
   * Metropolis & Gibbs as special cases of M-H
