@@ -134,7 +134,6 @@ Lecture 18 (Tue 27 Feb). Covered:
   * Began sketch of Markov Chain theoretical background
 
 **Week 7**  
-
 Lecture 19 (Thu 01 Mar). Covered:
   * Sketch of MCMC theory
   * irreducible, aperiodic, not transient chains with unique, stationary dist'ns
