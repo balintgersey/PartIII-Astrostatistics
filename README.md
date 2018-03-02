@@ -144,7 +144,7 @@ Lecture 19 (Thu 01 Mar). Covered:
   
 Example Class 2 (Fri 02 Mar):
   * Solved Example Sheet 2, problems 1 & 2  
-  * Properties of Multivariate Gaussian Dist'ns (see multivariate_gaussian_notes.pdf)
+  * Properties of Multivariate Gaussian Distributions (see multivariate_gaussian_notes.pdf)
   
 Lecture 20 (Sat 03 Mar):  Gaussian Processes in Astrophysics
   * Case Study:  
