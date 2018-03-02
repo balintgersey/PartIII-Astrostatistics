@@ -96,7 +96,7 @@ Lecture 13 (Thu 15 Feb).  Covered:
   * reference: Patel, Besla & Mandel. 2017, MNRAS, 468, 3428  
        MNRAS = Monthly Notices of the Royal Astronomical Society
        
-Example Class (Fri 16 Feb):
+Example Class 1 (Fri 16 Feb):
   * Solved Example Sheet 1, problems 1 & 2
   * Bootstrap Sampling (Ivezic, §4.5 & F&B §3.6.2)
        
@@ -141,6 +141,10 @@ Lecture 19 (Thu 01 Mar). Covered:
   * detailed balance and invariant dist'ns
   * proof that Metropolis-Hastings obeys detailed balance
   * Metropolis & Gibbs as special cases of M-H
+  
+Example Class 2 (Fri 02 Mar):
+  * Solved Example Sheet 2, problems 1 & 2  
+  * Properties of Multivariate Gaussian Dist'ns (see multivariate_gaussian_notes.pdf)
   
 Lecture 20 (Sat 03 Mar):  Gaussian Processes in Astrophysics
   * Case Study:  
