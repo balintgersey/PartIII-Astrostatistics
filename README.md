@@ -148,7 +148,18 @@ Example Class 2 (Fri 02 Mar):
   * see also Appendix A of Rasmussen & Williams, "Gaussian Processes for Machine Learning"  
   http://www.gaussianprocess.org/gpml/chapters/
   
-Lecture 20 (Sat 03 Mar):  Gaussian Processes in Astrophysics
+Lecture 20 (Sat 03 Mar). Covered:
+  * MCMC in Practice
+  * Choosing Metropolis proposal scale,
+  * autocorrelation plots, thinning, multiple chains, Gelman-Rubin ratio
+  
+Lecture 21 (Tue 06 Mar):
+  * Gaussian Processes in Astrophysics
+  * Gravitational Lensing Time delay example
+  * Fitting GP to data to infer functions
+  * Optimising hyperparameters with marginal likelihood
+
+**Week 8**
   * Case Study:  
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
