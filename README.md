@@ -168,7 +168,6 @@ Lecture 21 (Tue 06 Mar):
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
 
-**Week 8**  
-Approximate Bayesian Computation
+  Approximate Bayesian Computation
 
 Under Construction...
