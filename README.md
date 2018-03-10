@@ -170,6 +170,9 @@ Lecture 23 (Sat 10 Mar):
   * Probabilistic Graphical Models & Hierarchical Bayes  
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference  
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.  
+  
+**Example Class 3 (Mon 12 Mar, 15:30, MR 14)**  
+  * Example Sheet 3  
 
 Lecture 24 (Tue 13 Mar):  
   * Continue with PGMs and Hierarchical Bayes
