@@ -160,6 +160,10 @@ Lecture 21 (Tue 06 Mar):
   * Optimising hyperparameters with marginal likelihood
 
 **Week 8**
+Lecture 22 (Thu 08 Mar);
+  * Continue with GPs in Astrophysics
+  * Gravitational Lensing Example
+  
   * Case Study:  
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
