@@ -158,7 +158,6 @@ Lecture 21 (Tue 06 Mar):
   * Gravitational Lensing Time delay example
   * Fitting GP to data to infer functions
   
-
 **Week 8**  
 Lecture 22 (Thu 08 Mar):
   * Continue with GPs in Astrophysics  
@@ -166,7 +165,7 @@ Lecture 22 (Thu 08 Mar):
   * Optimising hyperparameters with marginal likelihood  
   
 Lecture 23 (Sat 10 Mar):  
-  * Jeffrey's priors revisited
+  * Jeffrey's priors revisited, results for Gaussian likelihood
   * Probabilistic Graphical Models & Hierarchical Bayes  
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference  
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.  
