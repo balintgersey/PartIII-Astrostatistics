@@ -159,19 +159,23 @@ Lecture 21 (Tue 06 Mar):
   * Fitting GP to data to infer functions
   * Optimising hyperparameters with marginal likelihood
 
-**Week 8**
+**Week 8**  
 Lecture 22 (Thu 08 Mar):
   * Continue with GPs in Astrophysics  
   * Gravitational Lensing Example  
   
+Lecture 23 (Sat 10 Mar):  
+  * Jeffrey's Prior revisited
+  * Probabilistic Graphical Models & Hierarchical Bayes  
+  * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference  
+  * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.  
+
 **Future**
   * Case Study:  
   Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
   * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
   
-  Probabilistic Graphical Models & Hierarchical Bayes
-  * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference
-  * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.
+
 
   Approximate Bayesian Computation
 
