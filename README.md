@@ -1,5 +1,5 @@
 # PartIII-Astrostatistics
-Home Page for Astrostatistics Course, Part III Mathematical Tripos
+Home Page for Astrostatistics Course, Part III Mathematics & Astrophysics Triposes
 
 Lent Term
 Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
