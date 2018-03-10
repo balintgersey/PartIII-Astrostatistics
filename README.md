@@ -171,13 +171,6 @@ Lecture 23 (Sat 10 Mar):
   * Case Study: Hierachical Bayesian Models for Type Ia Supernova Inference  
   * reference: Mandel et al. 2017, The Astrophysical Journal, 842, 93.  
 
-**Future**
-  * Case Study:  
-  Disentangling Time Series Spectra with Gaussian Processes: Applications to Radial Velocity Analysis
-  * reference: Czekala et al. 2017, The Astrophysical Journal, 840, 49.
+Lecture 24 (Tue 13 Mar):  
+  * Continue with PGMs and Hierarchical Baye
   
-
-
-  Approximate Bayesian Computation
-
-Under Construction...
