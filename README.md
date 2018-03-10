@@ -160,7 +160,7 @@ Lecture 21 (Tue 06 Mar):
   * Optimising hyperparameters with marginal likelihood
 
 **Week 8**
-Lecture 22 (Thu 08 Mar);
+Lecture 22 (Thu 08 Mar):
   * Continue with GPs in Astrophysics
   * Gravitational Lensing Example
   
