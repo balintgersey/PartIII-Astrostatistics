@@ -175,4 +175,7 @@ Lecture 23 (Sat 10 Mar):
 
 Lecture 24 (Tue 13 Mar):  
   * Continue with PGMs and Hierarchical Bayes
+  * Examples of hierarchical models / PGM in astronomy
+  * Directed acyclic graphs, d-separation & conditional independence  
+  
   
