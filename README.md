@@ -5,6 +5,7 @@ Lent Term
 Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
 **If you did not receive an annoucement email from me on Thursday, 19 Apr 2018, then you are not on my email list.  If you want to be on the list, please let me know.**  
+
 **Example Sheet 4 uploaded! Example Class: Thursday, 26 Apr 2018 at 1pm in MR 5.**
 
 Office Hours: Fridays @ 1pm  
