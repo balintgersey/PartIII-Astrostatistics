@@ -4,10 +4,7 @@ Home Page for Astrostatistics Course, Part III Mathematics / Part III Astrophysi
 Lent Term
 Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
-**IMPORTANT: Starting Saturday, 27 Jan, we will meet in a bigger room, MR5, to better accomodate the attendance.**
-
-**Example Sheet 3 and dataset uploaded! Because of scheduling conflicts,  
-the Example class is on Monday, 12 Mar at 15:30pm in MR14.**
+**Example Sheet 4 uploaded! Example Class: Thursday, 26 Apr 2018 at 1pm in MR 5.**
 
 Office Hours: Fridays @ 1pm  
 Statistical Laboratory  
