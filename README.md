@@ -6,7 +6,7 @@ Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
 **If you did not receive an annoucement email from me, then you are not on my email list.  If you want to be on the list, please let me know.**  
 
-**Revision Class: Monday,21 May 2018 at 10 am in MR 5**
+**Revision Class: Monday, 21 May 2018 at 10 am in MR 5**
 
 Office Hours: Fridays @ 1pm  
 Statistical Laboratory  
