@@ -4,7 +4,7 @@ Home Page for Astrostatistics Course, Part III Mathematics / Part III Astrophysi
 Lent Term
 Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
-**Final Exam: Monday, 11 June 2018, 1:30 pm to 4:30 pm**
+**Final Exam: Monday, 11 June 2018, 1:30 pm to 4:30 pm.  Closed book, answer 3 of 4 equal-weight questions**
 
 **If you did not receive an annoucement email from me, then you are not on my email list.  If you want to be on the list, please let me know.**  
 
