@@ -4,9 +4,9 @@ Home Page for Astrostatistics Course, Part III Mathematics / Part III Astrophysi
 Lent Term
 Tuesday, Thursday & Saturday at 12 noon. CMS **Meeting Room 5**.
 
-**If you did not receive an annoucement email from me, then you are not on my email list.  If you want to be on the list, please let me know.**  
+**Final Exam: Monday, 11 June 2018, 1:30 pm to 4:30 pm**
 
-**Revision Class: Monday, 21 May 2018 at 10 am in MR 5**
+**If you did not receive an annoucement email from me, then you are not on my email list.  If you want to be on the list, please let me know.**  
 
 Office Hours: Fridays @ 1pm  
 Statistical Laboratory  
@@ -179,4 +179,9 @@ Lecture 24 (Tue 13 Mar):
   * Gibbs Sampling of hierarchical model
   * Supernova Cosmology example (Mandel et al. 2017)
   
+**Example Class 4 (Thu 26 Apr, 13:00, MR 5)**
+  * Went over Example Sheet 4, Problems 1, 4, 6
+  
+**Revision Class: Monday, 21 May 2018 at 10 am in MR 5**
+  * Went over Example Sheet 4, Problems 5, 6
   
